@@ -32,6 +32,7 @@ recipes.remove(<solarflux:solar_panel_1>);
 recipes.remove(<thermalexpansion:frame:0>);
 //Don't touch me!
 //#Add
+recipes.addShapeless(<contenttweaker:generosity_ingot>, [<tconstruct:ingots:2>,<thermalfoundation:material:167>,<minecraft:diamond>,<botania:manaresource:4>,<botania:manaresource:14>,<twilightforest:fiery_ingot>,<randomthings:ingredient:3>,<tconstruct:ingots:4>,<minecraft:emerald>]);
 recipes.addShapeless(<contenttweaker:generosity_ingot> * 9, [<contenttweaker:block_of_generosity>]);
 recipes.addShaped(<contenttweaker:block_of_generosity>, [[<contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>],[<contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>], [<contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>]]);
 recipes.addShaped(<simplyjetpacks:itemjetpack:11>, [[<minecraft:diamond>, <thermalfoundation:material:293>, <minecraft:diamond>],[<thermalfoundation:material:294>, <simplyjetpacks:itemjetpack:10>, <thermalfoundation:material:294>], [<tconstruct:ingots:2>, <thermalfoundation:material:293>, <tconstruct:ingots:2>]]);
