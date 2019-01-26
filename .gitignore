@@ -22,10 +22,6 @@ backups/
 craftpresence/
 
 
-*/config/fastcraft*
-*/config/mapwriter*
-*/config/opis*
-*/config/versionchecker*
 *.log
 *.log.gz
 *.jar
