@@ -246,3 +246,5 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 minecraftinstance.json
+BotaniaVars.dat
+.ReAuth.cfg
