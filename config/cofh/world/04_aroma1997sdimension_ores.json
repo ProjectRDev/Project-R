@@ -1,0 +1,29 @@
+{
+	"dependencies": "aroma1997sdimension",
+	"populate": {
+		"clay": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "aroma1997sdimension:miningore",
+					"metadata": 1
+				},
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": 6,
+			"min-height": 32,
+			"max-height": 58,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+				}
+}
