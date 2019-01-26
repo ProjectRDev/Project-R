@@ -248,3 +248,4 @@ pip-log.txt
 minecraftinstance.json
 BotaniaVars.dat
 .ReAuth.cfg
+config/splash.properties
