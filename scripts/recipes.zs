@@ -1,6 +1,9 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<torchmaster:feral_flare_lantern>);
+recipes.remove(<torchmaster:dread_lamp>);
+recipes.remove(<torchmaster:mega_torch>);
 recipes.remove(<thermalexpansion:machine:8>);
 recipes.remove(<dimensionalcake:blockendcake>);
 recipes.remove(<thermalexpansion:augment:258>);
@@ -32,6 +35,8 @@ recipes.remove(<solarflux:solar_panel_1>);
 recipes.remove(<thermalexpansion:frame:0>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<torchmaster:dread_lamp>, [[<ore:obsidian>, <ore:obsidian>, <ore:obsidian>],[<ore:obsidian>, <torchmaster:feral_flare_lantern>, <ore:obsidian>], [<ore:obsidian>, <minecraft:magma>, <ore:obsidian>]]);
+recipes.addShaped(<torchmaster:feral_flare_lantern>, [[<ore:obsidian>, <ore:obsidian>, <ore:obsidian>],[<minecraft:redstone_lamp>, <minecraft:redstone_lamp>, <minecraft:redstone_lamp>], [<ore:endstone>, <ore:endstone>, <ore:endstone>]]);
 recipes.addShaped(<simplequarry:powered_quarry>, [[<thermaldynamics:duct_0:9>, <thermaldynamics:duct_0:9>, <thermaldynamics:duct_0:9>],[<contenttweaker:block_of_generosity>, <simplequarry:fuel_quarry>, <contenttweaker:block_of_generosity>], [<solarflux:solar_panel_4>, <solarflux:solar_panel_4>, <solarflux:solar_panel_4>]]);
 recipes.addShaped(<simplequarry:fuel_quarry>, [[<forge:bucketfilled>.withTag({FluidName: "cryotheum", Amount: 1000}), <immersiveengineering:metal_decoration0:5>, <forge:bucketfilled>.withTag({FluidName: "cryotheum", Amount: 1000})],[<immersiveengineering:material:19>, <contenttweaker:golden_coin>, <immersiveengineering:material:19>], [<minecraft:diamond_pickaxe>, <immersiveengineering:metal_decoration0:5>, <minecraft:diamond_pickaxe>]]);
 recipes.addShaped(<simplyjetpacks:itemjetpack:13>, [[<contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>],[<contenttweaker:generosity_ingot>, <simplyjetpacks:itemjetpack:12>, <contenttweaker:generosity_ingot>], [<contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>, <contenttweaker:generosity_ingot>]]);

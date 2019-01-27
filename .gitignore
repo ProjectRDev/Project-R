@@ -261,3 +261,7 @@ config/worldedit/worldedit.properties
 config/splash.properties
 config/splash.properties
 config/worldedit/worldedit.properties
+config/splash.properties
+config/XaeroWaypoints/Multiplayer_localhost/overworld/mw11,1,11_4.txt
+config/XaeroWaypoints/Multiplayer_localhost/twilight_forest/mw0,0,0_1.txt
+config/worldedit/worldedit.properties
