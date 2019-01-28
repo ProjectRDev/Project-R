@@ -20,6 +20,8 @@ schematics/
 resourcepacks/
 backups/
 craftpresence/
+replay_downloads/
+replay_recordings/
 
 
 *.log
@@ -265,3 +267,20 @@ config/splash.properties
 config/XaeroWaypoints/Multiplayer_localhost/overworld/mw11,1,11_4.txt
 config/XaeroWaypoints/Multiplayer_localhost/twilight_forest/mw0,0,0_1.txt
 config/worldedit/worldedit.properties
+config/replaymod-render.cfg
+config/replaymod.cfg
+config/replaymod-online.cfg
+.mixin.out/audit/mixin_implementation_report.csv
+config/jei/worldSettings.cfg
+config/jei/worldSettings.cfg
+config/splash.properties
+config/jei/worldSettings.cfg
+config/splash.properties
+.mixin.out/audit/mixin_implementation_report.txt
+config/jei/worldSettings.cfg
+config/worldedit/worldedit.properties
+config/XaeroWaypoints/Multiplayer_localhost/the_nether/mw0,0,0_1.txt
+config/XaeroWaypoints/Multiplayer_rakkusu.com/overworld/mw11,1,11_2.txt
+config/XaeroWaypoints/Multiplayer_rakkusu.com/twilight_forest/mw0,0,0_1.txt
+config/XaeroWaypoints/Multiplayer_rakkusu.com/overworld/mw11,1,11_2.txt
+config/XaeroWaypoints/Multiplayer_rakkusu.com/overworld/mw11,1,11_2.txt
