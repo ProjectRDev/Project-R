@@ -22,7 +22,7 @@ backups/
 craftpresence/
 replay_downloads/
 replay_recordings/
-
+config/XaeroWaypoints/
 
 *.log
 *.log.gz
@@ -282,5 +282,6 @@ config/worldedit/worldedit.properties
 config/XaeroWaypoints/Multiplayer_localhost/the_nether/mw0,0,0_1.txt
 config/XaeroWaypoints/Multiplayer_rakkusu.com/overworld/mw11,1,11_2.txt
 config/XaeroWaypoints/Multiplayer_rakkusu.com/twilight_forest/mw0,0,0_1.txt
+config/XaeroWaypoints/Multiplayer_rakkusu.com/overworld/mw11,1,11_2.txt
 config/XaeroWaypoints/Multiplayer_rakkusu.com/overworld/mw11,1,11_2.txt
 config/XaeroWaypoints/Multiplayer_rakkusu.com/overworld/mw11,1,11_2.txt
